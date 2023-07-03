@@ -7,7 +7,8 @@ public class AccountContactController {
     //  Class.someClassName.someMethodName: line/column
     //  Class.someClassName.someInnerClass.someMethodName: line/column
     //  ....    
-    //  Trigger.someTriggername:  
+    //  Trigger.someTriggername:
+    //Hello This is my name --> Jagga  
     try {Integer i = 10 / 0;}
     catch (Exception e) {
         System.debug('exception , '+ e.getStackTraceString());
