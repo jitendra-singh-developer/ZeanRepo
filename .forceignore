@@ -13,3 +13,4 @@ package.xml
 
 # Apex Class
 **/classes/AccountContactController.cls
+**/classes/AccountContactController.cls-meta.xml
