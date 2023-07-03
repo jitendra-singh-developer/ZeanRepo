@@ -16,7 +16,7 @@ coverage/
 
 
 # Apex class
-**/apex/AccountContactController.cls
+**/classes/AccountContactController.cls
 
 # Logs
 logs

@@ -12,4 +12,4 @@ package.xml
 **/__tests__/**
 
 # Apex Class
-**/AccountContactController.cls
+**/classes/AccountContactController.cls
